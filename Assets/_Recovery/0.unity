@@ -544,7 +544,7 @@ Transform:
   m_GameObject: {fileID: 1321290646}
   serializedVersion: 2
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -2.510459, y: 0.48418352, z: 0}
+  m_LocalPosition: {x: -1.5, y: 0.5, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -786,7 +786,7 @@ MonoBehaviour:
   moveSpeed: 5
   pushableLayer:
     serializedVersion: 2
-    m_Bits: 24
+    m_Bits: 8
   tileSize: 1
 --- !u!1 &2013140203
 GameObject:
