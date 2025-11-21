@@ -41,5 +41,26 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: Ground
+    uniqueID: 3879408839
+    locked: 0
+  - name: Vines
+    uniqueID: 1199797921
+    locked: 0
+  - name: Wall
+    uniqueID: 1202368535
+    locked: 0
+  - name: Player and Obstacles
+    uniqueID: 4184844057
+    locked: 0
+  - name: Collision
+    uniqueID: 1595214397
+    locked: 0
+  - name: Decoration Under
+    uniqueID: 2143951953
+    locked: 0
+  - name: Decoration Over
+    uniqueID: 3013239837
+    locked: 0
   m_RenderingLayers:
   - Default
